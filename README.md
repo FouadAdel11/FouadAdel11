@@ -1,6 +1,6 @@
-<h1 align="center">Hello!, I'm Ahmed Hemeda</h1>
+<h1 align="center">Hello!, I'm Fouad Attallh</h1>
 
-<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2><br>
+<h2 align="center">Software Engineer | MEAN Developer | Full Stack</h2><br>
 
   <p align="center"> <!-- Google Me -->
     <a href="https://avatars.githubusercontent.com/u/121490713?v=4">
@@ -20,7 +20,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,postgresql,sqlserver,redis,postman,html,css,js,,angular,node,nest,docker,git,github"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,postgresql,sqlserver,redis,postman,html,css,js,angular,node,nest,docker,git,github"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
