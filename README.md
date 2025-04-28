@@ -20,7 +20,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,postgresql,sqlserver,redis,postman,html,css,js,angular,node,nest,docker,git,github"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=javascripte,postgresql,sqlserver,redis,postman,html,css,nodejs,angular,nest,docker,git,github"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
